@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ESP8266-01_ESP-01")(type "Legacy")(uri "${KIPRJMOD}/Libraries/ESP8266-01_ESP-01/ESP8266-01_ESP-01.lib")(options "")(descr ""))
+  (lib (name "B3F-1000")(type "Legacy")(uri "${KIPRJMOD}/Libraries/B3F-1000/B3F-1000.lib")(options "")(descr ""))
+)

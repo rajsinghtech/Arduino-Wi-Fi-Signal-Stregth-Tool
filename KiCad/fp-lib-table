@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "ESP8266-01_ESP-01")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP8266-01_ESP-01")(options "")(descr ""))
+  (lib (name "CAPC2012X140N")(type "KiCad")(uri "${KIPRJMOD}/Libraries/CAPC2012X140N")(options "")(descr ""))
+  (lib (name "B3F-1000")(type "KiCad")(uri "${KIPRJMOD}/Libraries/B3F-1000")(options "")(descr ""))
+)
