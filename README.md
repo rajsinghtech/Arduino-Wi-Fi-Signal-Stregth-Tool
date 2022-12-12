@@ -1,3 +1,3 @@
 # Arduino-Wi-Fi-Signal-Stregth-Tool
 
-[![Watch the video]()]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/shorts/UHPUSp6ORwE))
+[![Video](https://img.youtube.com/vi/UHPUSp6ORwE/0.jpg)](https://www.youtube.com/watch?v=UHPUSp6ORwE)
